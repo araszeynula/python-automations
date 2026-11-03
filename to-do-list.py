@@ -1,4 +1,3 @@
-
 while True:
     choice = input("enter your choice(1 = append task ; 2 = read todolist ; 3 = exit) : ")
     if choice == "1":
